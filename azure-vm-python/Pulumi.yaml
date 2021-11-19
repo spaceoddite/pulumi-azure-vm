@@ -1,0 +1,6 @@
+name: pypulumi_az
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: azure infra in python using pulumi
